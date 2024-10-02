@@ -34,33 +34,25 @@ Here are some of the projects I've worked on:
 
 I hold several certifications that demonstrate my expertise in cybersecurity and related fields. You can view/download my certificates by clicking the links below:
 
-### Cybersecurity Related
+#### Cybersecurity Related
 
-#### Cisco
-- **Cisco - CyberOps Certification** *(Perusing)*
-- **Cisco - Cisco Certified Network Associate** *(Perusing)*
-- **[Cisco - Intro to Cybersecurity](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20Intro%20to%20Cybersecurity%20Certificate.pdf)**
+- Cisco - CyberOps *(Perusing)*
+- Cisco - CCNA *(Perusing)*
+#### Others
+- [Cisco - Intro to Cybersecurity](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20Intro%20to%20Cybersecurity%20Certificate.pdf)
+- [Google - Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/KM4GNJW4QUD3)
+- [CISA - Differences in Deployments of Industrial Control Systems](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/CISA%20-%20Differences%20in%20Deployments%20of%20Industrial%20Control%20Systems%20(FY%2022).pdf)
+- [TryHackMe - Cybersecurity Engineering Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB7N5WGFY7.png)
 
-#### Google
-- **[Google - Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/KM4GNJW4QUD3)**
-- **[Google Developers - Chapter Lead Graduation](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Google%20Developers%20-%20Chapter%20Lead%20-%20Graduation%20Certificate.pdf)**
+#### Foundational
+- [TryHackMe - (Practical) Intro to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PGJQS7DHPE.png)
+- [Fortinet - NSE 1 Information Security Awarness](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Fortinet%20-%20Information%20Security%20Awareness%20Completion.pdf)
+- [EC Council - Pentesting Foundation](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)
+- [EC Council - Network Defense Essentials](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)
 
-#### EC Council
-- **[EC Council - Pentesting Foundation](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)**
-- **[EC Council - Network Defense Essentials](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)**
-
-#### Cyber Security and Infrastructure Security Agency 
-- **[CISA - Differences in Deployments of Industrial Control Systems](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/CISA%20-%20Differences%20in%20Deployments%20of%20Industrial%20Control%20Systems%20(FY%2022).pdf)**
-
-#### TryHackMe
-- **[TryHackMe - Cybersecurity Engineering Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB7N5WGFY7.png)**
-- **[TryHackMe - (Practical) Intro to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PGJQS7DHPE.png)**
-
-#### Fortinet
-- **[Fortinet - NSE 1 Information Security Awarness](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Fortinet%20-%20Information%20Security%20Awareness%20Completion.pdf)**
-
-### Academic Certifications
-- **[Unity Basics](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/ADUi%20-%20Unity%20Beginners%20Certificate.pdf)**
+#### Academic Certifications
+- [Google Developers - Chapter Lead Graduation](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Google%20Developers%20-%20Chapter%20Lead%20-%20Graduation%20Certificate.pdf)
+- [Unity Basics](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/ADUi%20-%20Unity%20Beginners%20Certificate.pdf)
 
 
 ## Skills
