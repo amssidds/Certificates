@@ -38,10 +38,9 @@ I hold several certifications that demonstrate my expertise in cybersecurity and
 
 - Cisco - CyberOps *(Perusing)*
 - Cisco - CCNA *(Perusing)*
-#### Others
-- [Cisco - Intro to Cybersecurity](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20Intro%20to%20Cybersecurity%20Certificate.pdf)
 - [Google - Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/KM4GNJW4QUD3)
 - [CISA - Differences in Deployments of Industrial Control Systems](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/CISA%20-%20Differences%20in%20Deployments%20of%20Industrial%20Control%20Systems%20(FY%2022).pdf)
+- [Cisco - Intro to Cybersecurity](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20Intro%20to%20Cybersecurity%20Certificate.pdf)
 - [TryHackMe - Cybersecurity Engineering Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB7N5WGFY7.png)
 
 #### Foundational
