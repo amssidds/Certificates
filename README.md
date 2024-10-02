@@ -85,7 +85,7 @@ I hold several certifications that demonstrate my expertise in cybersecurity and
 
 
 ## Learning Platforms
-<img src="https://tryhackme-badges.s3.amazonaws.com/amssidds.png" alt="TryHackMe">
+![tryhackme stats](https://raw.githubusercontent.com/AmeenMS03/AmeenMS03/master/assets/thm_propic.png)
 
 
  
