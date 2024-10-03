@@ -1,9 +1,10 @@
 # Ameen M. Siddiqui
 
-[![Email](https://img.shields.io/badge/Email-amssidds%40gmail.com-red)](mailto:amssidds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmeenMS03-blue)](https://www.linkedin.com/in/ameen-siddiqui-370a7a185/)
-[![GitHub](https://img.shields.io/badge/GitHub-AmeenMS03-black)](https://github.com/AmeenMS03)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-amssidds-brightgreen)](https://tryhackme.com/p/amssidds)
+[![Email](https://img.shields.io/badge/Email-amssidds%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amssidds@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmeenMS03-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameen-siddiqui-370a7a185/)
+[![GitHub](https://img.shields.io/badge/GitHub-AmeenMS03-black?logo=github&logoColor=white)](https://github.com/AmeenMS03)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-amssidds-brightgreen?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amssidds)
+[![My Resume](https://img.shields.io/badge/My%20Resume-Ameen%20Siddiqui-orange?logo=readme&logoColor=white)](https://flowcv.com/resume/4e4dpvheht)
 
 
 
