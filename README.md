@@ -83,7 +83,8 @@ I hold several certifications that demonstrate my proficiency in cybersecurity a
 
 - Cisco - [Intro to Cybersecurity](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20Intro%20to%20Cybersecurity%20Certificate.pdf)  
 - TryHackMe - [(Practical) Intro to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PGJQS7DHPE.png)  
-- Fortinet - [NSE 1 Information Security Awareness](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Fortinet%20-%20Information%20Security%20Awareness%20Completion.pdf)  
+- Fortinet - [NSE 1 Information Security Awareness](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Fortinet%20-%20Information%20Security%20Awareness%20Completion.pdf)
+- Splunk - [Introduction to Splunk](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Splunk%20-%20Intro%20to%20Splunk.pdf)
 - EC-Council - [Pentesting Foundations](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)  
 - EC-Council - [Network Defense Essentials](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)
 
