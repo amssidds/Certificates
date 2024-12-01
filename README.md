@@ -1,33 +1,11 @@
 # Ameen M. Siddiqui
 
-[![Email](https://img.shields.io/badge/Email-amssidds%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amssidds@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmeenMS03-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameen-siddiqui-370a7a185/)
 [![GitHub](https://img.shields.io/badge/GitHub-AmeenMS03-black?logo=github&logoColor=white)](https://github.com/AmeenMS03)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-amssidds-brightgreen?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amssidds)
-[![My Resume](https://img.shields.io/badge/My%20Resume-Ameen%20Siddiqui-orange?logo=readme&logoColor=white)](https://flowcv.com/resume/4e4dpvheht)
 
 
-
-## Quick Access
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Certifications](#certifications)
-- [Learning Platforms](#learning-platforms)
-- [Career Goals](#career-goals)
-
-
-
-## About Me
-
-I am a **Cybersecurity Engineering student** with a strong foundation in cybersecurity principles and practices. I am passionate about building secure, resilient systems that drive innovation. My interests lie particularly in **penetration testing** and **threat intelligence**, where I aim to contribute to organizations by identifying and mitigating security risks effectively.
-
-My academic projects include securing Active Directory environments and conducting risk assessments for real-world applications. I have also been involved in student technology initiatives, which have enhanced my collaboration skills and technical expertise. I am eager to apply my knowledge in a professional setting, where I can work alongside industry professionals and tackle complex security challenges.
-
-
-
-## Projects
+## Projects and Repositories 
 
 Here are some of the key projects I've worked on:
 
@@ -73,7 +51,7 @@ I hold several certifications that demonstrate my proficiency in cybersecurity a
 
 #### Cybersecurity Certifications
 
-- Cisco - CyberOps *(In Progress)*  
+- Cisco - [CyberOps](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20CyberOps%20Associate.pdf)
 - Cisco - CCNA *(In Progress)*  
 - Google - [Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/KM4GNJW4QUD3)  
 - CISA - [Differences in Deployments of Industrial Control Systems](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/CISA%20-%20Differences%20in%20Deployments%20of%20Industrial%20Control%20Systems%20(FY%2022).pdf)  
@@ -100,9 +78,3 @@ I hold several certifications that demonstrate my proficiency in cybersecurity a
 ## Learning Platforms
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/amssidds.png" alt="TryHackMe">
-
-
-
-## Career Goals
-
-As I approach graduation, I'm actively seeking **cybersecurity opportunities** where I can apply my skills in penetration testing, risk management, security engineering and system hardening. I aim to contribute to a team where I can continue learning, stay ahead of evolving cyber threats, and help design secure and innovative solutions.
