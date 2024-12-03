@@ -8,6 +8,10 @@
 ## Projects and Repositories 
 
 Here are some of the key projects I've worked on:
+### Cybersecurity Related:
+
+- **[Intrusion Detection System using Python](https://github.com/AmeenMS03/IoT_IDS)** `IDS` `IPS` `Python`
+  <br> A Python-based Network Intrusion Detection System (NIDS) designed to detect and block brute force attacks on a Raspberry Pi. This lightweight and efficient tool monitors live network traffic, detects malicious activity, and logs incidents for analysis.
 
 - **[Ethical Hacking Home Lab](https://github.com/AmeenMS03/Ethical-Hacking-Home-Lab)** `Active Directory` `Windows Hardening` `User Group Policy` `Attacking and Defending AD` 
   <br> Built a home lab to simulate attacking and defending Active Directory environments, focusing on penetration testing and defence techniques.
@@ -15,6 +19,7 @@ Here are some of the key projects I've worked on:
 - **[Risk Assessment for Instagram](https://github.com/AmeenMS03/Course-Project-Risk-Assessment-Report)** `Risk Assessment` `Risk Register` 
   <br> Conducted a comprehensive risk assessment of Instagram, identifying critical vulnerabilities and proposing actionable security improvements.
 
+### Others:
 - **[Virtual Pizza Ordering Program](https://github.com/AmeenMS03/Virtual-Pizza-Ordering-Program)** `Python`  
   Developed a Python-based pizza ordering system simulation that allows users to customize orders, track inventory, and receive real-time updates.
 
