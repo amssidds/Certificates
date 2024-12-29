@@ -77,8 +77,11 @@ I hold several certifications that demonstrate my proficiency in cybersecurity a
 - Unity - [Unity Basics](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/ADUi%20-%20Unity%20Beginners%20Certificate.pdf)
 
 
+## Blogs
+Medium - [Link](https://ameensiddiqui.medium.com/list/cybersec-blogs-28c29680be18)
 
-
+## Writeups
+Medium - [Link](https://ameensiddiqui.medium.com/list/cybersec-writeups-dbf1cd8683e5)
 
 ## Learning Platforms
 
