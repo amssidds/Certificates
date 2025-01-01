@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmeenMS03-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameen-siddiqui-370a7a185/)
 [![GitHub](https://img.shields.io/badge/GitHub-AmeenMS03-black?logo=github&logoColor=white)](https://github.com/AmeenMS03)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-amssidds-brightgreen?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amssidds)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-amssidds-brightgreen?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amssidds
 
 
 ## Projects and Repositories 
@@ -54,7 +54,7 @@ Here are some of the key projects I've worked on:
 
 I hold several certifications that demonstrate my proficiency in cybersecurity and related fields:
 
-#### Cybersecurity Certifications
+#### Certifications
 
 - Cisco - [CyberOps](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20CyberOps%20Associate.pdf)
 - Cisco - CCNA *(In Progress)*  
@@ -62,7 +62,7 @@ I hold several certifications that demonstrate my proficiency in cybersecurity a
 - CISA - [Differences in Deployments of Industrial Control Systems](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/CISA%20-%20Differences%20in%20Deployments%20of%20Industrial%20Control%20Systems%20(FY%2022).pdf)  
 - TryHackMe - [Cybersecurity Engineering Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KB7N5WGFY7.png)
 
-#### Foundational Certifications
+#### Certificates
 
 - Cisco - [Intro to Cybersecurity](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Cisco%20-%20Intro%20to%20Cybersecurity%20Certificate.pdf)  
 - TryHackMe - [(Practical) Intro to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PGJQS7DHPE.png)  
@@ -71,7 +71,7 @@ I hold several certifications that demonstrate my proficiency in cybersecurity a
 - EC-Council - [Pentesting Foundations](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)  
 - EC-Council - [Network Defense Essentials](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/EC-Council%20-%20Pentesting%20Foundations.pdf)
 
-#### Academic Certifications
+#### Academic Certificates
 
 - Google Developers - [Chapter Lead Graduation](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/Google%20Developers%20-%20Chapter%20Lead%20-%20Graduation%20Certificate.pdf)  
 - Unity - [Unity Basics](https://github.com/AmeenMS03/AmeenMS03/blob/main/certificates/ADUi%20-%20Unity%20Beginners%20Certificate.pdf)
